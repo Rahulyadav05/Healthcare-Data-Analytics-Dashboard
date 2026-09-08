@@ -204,7 +204,7 @@ healthcare planning:
 | File | Description |
 |---|---|
 | `Healthcare_Data_Analytics_Dashboard.xlsx` | Complete Excel dashboard, PivotTables and analysis |
-| `Dashboard_Screenshot.png` | Preview of the healthcare dashboard |
+| `Dashboard_Screenshot1.png` | `Dashboard_Screenshot2.png` | `Dashboard_Screenshot3.png` | Preview of the healthcare dashboard |
 | `README.md` | Project documentation |
 
 ---
